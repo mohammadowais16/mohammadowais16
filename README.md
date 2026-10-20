@@ -17,7 +17,7 @@ I'm a computer science student who enjoys building software and learning through
 
 Python · React · FastAPI · TensorFlow/Keras · OpenCV · Git
 
-I'm focused on building a stronger foundation in software engineering, writing clearer code, and learning by shipping practical projects.
+Most of my learning comes from building projects, testing ideas, and improving the code along the way.
 
 ---
 
